@@ -26,3 +26,5 @@ Here I will be solving SQL questions from HACKERRANK till i get certified
 19. GROUP BY clause <br></p>
 
 <p> After these many learning i thought od implementing that in HACKERRANK platform</p>
+
+<p>I will upload the complete notes once the video gets completed .The notes will be in written formate and it will provided in pdf</p>
